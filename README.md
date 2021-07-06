@@ -5,3 +5,5 @@ A test repository
 Hi this is just random testing for something.
 
 Thanks!
+
+v0.1
